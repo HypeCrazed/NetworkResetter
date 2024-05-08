@@ -4,6 +4,11 @@ Reset your Wi-Fi or Ethernet adapter in a single click!
 ## Configuration
 To choose between Wi-Fi and Ethernet, open the `config.json` file and set the one you want to reset to `true`, and the other to `false`.
 
+## Download the latest version
+
+[Download Stable (Recommended)](https://github.com/HypeCrazed/NetworkResetter/releases/tag/Stable) - Most stable version of NetworkResetter
+[Download Beta]() - Experimental features, contains a lot of bugs, and isn't intended for standard use.
+
 ## Build from source
 
 **Before any of the steps below, make sure you have the [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.204-windows-x64-installer) installed!**
