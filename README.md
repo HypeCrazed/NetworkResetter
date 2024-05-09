@@ -2,7 +2,7 @@
 Reset your Wi-Fi or Ethernet adapter in a single click!
 
 ## Configuration
-To choose between Wi-Fi and Ethernet, open the `config.json` file and set the one you want to reset to `true`, and the other to `false`.
+To choose between Wi-Fi and Ethernet, open the `config.json` file and set the one you want to reset to `true`, and the other to `false`. (The default is Wi-Fi)
 
 ## Download the latest version
 
