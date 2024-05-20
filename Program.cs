@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Threading;
 using Newtonsoft.Json;
@@ -56,6 +56,7 @@ public class Program
             Console.Beep(500, 500);
             Console.WriteLine("Resetting Ethernet...");
             Process.Start("cmd.exe", command);
+            Thread.Sleep(5000);
         }
     }
   }
