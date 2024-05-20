@@ -32,7 +32,7 @@ public class Program
 ░▀░▀░▀▀▀░░▀░░▀░▀░▀▀▀░▀░▀░▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀▀▀░░▀░░░▀░░▀▀▀░▀░▀";
 
 
-        Console.Title = "Network Resetter";
+        Console.Title = "Network Resetter | Dev Build";
         Console.WriteLine(nrLogo);
         Thread.Sleep(3000);
         Console.Clear();
