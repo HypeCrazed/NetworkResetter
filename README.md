@@ -6,7 +6,7 @@ To choose between Wi-Fi and Ethernet, open the `config.json` file and set the on
 
 ## Download the latest version
 
-[Download Stable Build(Recommended)](https://github.com/HypeCrazed/NetworkResetter/releases/tag/Stable) - Most stable version of NetworkResetter
+[Download Stable Build (Recommended)](https://github.com/HypeCrazed/NetworkResetter/releases/tag/Stable) - Most stable version of NetworkResetter
 
 [Download Experimental Build]() - Experimental features, contains a lot of bugs, and isn't intended for standard use.
 
