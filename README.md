@@ -1,5 +1,4 @@
 # NetworkResetter
-## This project isn't updated at the moment, my main focus right now is [Titanium](https://github.com/hypecrazed/titanium)
 Reset your Wi-Fi or Ethernet adapter in a single click!
 
 ## Configuration
